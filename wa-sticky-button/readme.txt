@@ -3,7 +3,7 @@ Contributors: farazify
 Donate link: https://www.paypal.me/farazify
 Tags: WhatsApp Sticky Button, WP Sticky Button, WhatsApp Button, Okapi Button, Button for frontend, WhatsApp, Okapi, Sticky, Button, Faraz, Quazi, Click to Chat
 Requires at least: 4.5
-Tested up to: 6.6.1
+Tested up to: 6.8.2
 Stable tag: 1.4.1
 Requires PHP: 5.6
 License: GPLv2 or later
